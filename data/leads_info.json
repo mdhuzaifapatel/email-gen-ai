@@ -1,0 +1,15 @@
+{
+    "leads": [
+      {
+        "name": "Alice Johnson",
+        "job_title": "Marketing Manager",
+        "company": "Google",
+        "interests": ["growth marketing", "automation tools"]
+      }
+    ],
+    "product": {
+      "name": "AutoMailer",
+      "description": "AI-powered tool for automating email campaigns and maximizing outreach efficiency."
+    }
+  }
+  
