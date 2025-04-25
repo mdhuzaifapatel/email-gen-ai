@@ -52,6 +52,6 @@ The goal of this prototype is to simulate an AI-driven workflow that automates p
 - OpenAI API key is user-provided and secured via .env.
 
 ## Tools & References
-- Used ChatGPT (GPT-4) for guidance on:
+- Used ChatGPT for guidance on:
   - CrewAI setup and best practices
   - Structuring the README and documentation
